@@ -1,7 +1,7 @@
 # Pong in C
 
 ## Description
-This project is a recreation of the classic Pong game, made for a course in hardware engineering at the Royal Institute of Technology, Sweden. It is developed mainly in the C language and is designed to be run on a chipKIT Uno32 board together with a Basic I/O shield. Most of the game logic is included in the files pong.c, functions.c, and data.h. The file pong.c is the main file, controlling the running of the game, while functions.c defines various functions used for both the game and the menus. The header file data.h defines most of the constants, struct declarations, and global variables.
+This project is a recreation of the classic Pong game, made for a course in hardware engineering at the Royal Institute of Technology, Sweden. It is developed mainly in the C language and is designed to be run on a chipKIT Uno32 board together with a Basic I/O shield. Most of the game logic is included in the files pong.c, functions.c, and data.h. The file pong.c is the main file, controlling the running of the game, while functions.c defines various functions used for both the game and the menus. The header file data.h defines most of the constants, struct declarations, and global variables. Most of the other files contains code provided by the teachers of the course.
 
 ## How it works
 When the game is started, the player is presented with a menu consisting of three alternatives: single-player, multiplayer, and high-score.
